@@ -1,0 +1,28 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: black;
+    color: #DAA520;
+}
+
+header {
+    justify-content: space-between;
+    display: flex;
+    border-color: #DAA520;
+    border-bottom: solid 3px;
+}
+
+h1 {
+    font-size: 40px;
+    margin: auto 0px auto 0px;
+}
+
+div.spacer {
+    margin: 10px;
+    width: 240px;
+    height: 60px;
+    /* background-color: white; */
+}
